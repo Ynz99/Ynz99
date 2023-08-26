@@ -7,7 +7,8 @@
 [
   '🌐 Web Developer',
   '🤓 Mostly self-taught',
-  '✨ Trying my best to write readable codes'
+  '✨ Trying my best to write readable codes',
+	'⚡ Fun fact **I play games and code'
 ].forEach((e) => { console.log(e) });
 ```
 <hr>
@@ -20,7 +21,6 @@
 			<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white">
 			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black">
 			<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white">
-			<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white">
 		</td>
 	</tr>
 	<tr>
@@ -39,7 +39,6 @@
 	<tr>
 		<td>Other</td>
 		<td>
-			<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 			<img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white">
 		</td>
 	</tr>
@@ -48,3 +47,4 @@
 
 
 > 💌 Feel free to contact me, if you know me ;)
+
