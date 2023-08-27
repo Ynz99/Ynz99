@@ -2,15 +2,20 @@
 <h3 align="center">I'm a web developer</h3>
 <hr>
 
-```javascript
-// index.js
-[
-'🌐 Web Developer',
-'🤓 Mostly self-taught',
-'✨ Trying my best to write readable codes',
-'⚡ Fun fact **I play games and code'
-]
-```
+```php
+<?php
+$items = [
+    '🌐 Web Developer',
+    '🤓 Mostly self-taught',
+    '✨ Trying my best to write readable codes',
+    '⚡ Fun fact **I play games and code'
+];
+
+foreach ($items as $item) {
+    echo $item . "\n";
+}
+?>
+
 <hr>
 
 <p><img align="right"
