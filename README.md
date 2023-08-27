@@ -46,11 +46,11 @@
 	</tr>
 </table>
 <br><br>
-<p><img align="center"
+<p><img align="left"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=sufyanfauzan&show_icons=true&theme=dark&locale=en&layout=compact"
 		alt="sufyanfauzan" /></p>
 <br>
-<p>&nbsp;<img align="center"
+<p>&nbsp;<img align="right"
 		src="https://github-readme-stats.vercel.app/api?username=sufyanfauzan&show_icons=true&theme=dark&locale=en"
 		alt="sufyanfauzan" /></p>
 
