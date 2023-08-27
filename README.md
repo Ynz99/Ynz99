@@ -13,6 +13,10 @@
 ```
 <hr>
 
+<p><img align="right"
+		src="https://github-readme-stats.vercel.app/api/top-langs?username=sufyanfauzan&show_icons=true&theme=dark&locale=en&layout=compact"
+		alt="sufyanfauzan" /></p>
+
 <table>
 	<tr>
 		<td>Front-End</td>
@@ -45,12 +49,12 @@
 		</td>
 	</tr>
 </table>
-<br><br>
+
 <p><img align="left"
 		src="https://github-readme-stats.vercel.app/api/top-langs?username=sufyanfauzan&show_icons=true&theme=dark&locale=en&layout=compact"
 		alt="sufyanfauzan" /></p>
 <br>
-<p>&nbsp;<img align="right"
+<p>&nbsp;<img align="center"
 		src="https://github-readme-stats.vercel.app/api?username=sufyanfauzan&show_icons=true&theme=dark&locale=en"
 		alt="sufyanfauzan" /></p>
 
