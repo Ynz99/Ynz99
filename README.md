@@ -47,7 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufyanfauzan&show_icons=true&theme=dark&locale=en&layout=compact" alt="sufyanfauzan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyanfauzan&show_icons=true&theme=dark&locale=en" alt="sufyanfauzan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sufyanfauzan&show_icons=true&theme=dark&locale=en" alt="sufyanfauzan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sufyanfauzan&theme=dark" alt="sufyanfauzan" /></p>
 
